@@ -11,6 +11,8 @@ namespace Felhantering_Uppgift {
 
         public static bool TryParse(string s, out int result) {
             bool parsed;
+            int tempRes = 0;
+            result = tempRes;
 
             try {
 
@@ -28,11 +30,12 @@ namespace Felhantering_Uppgift {
 
                 if (parsed == false) {
                     Console.WriteLine(value: "Err could not parse");
-                    
+                    return false;
                 }
 
             }
-
+            
+            return false;
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Felhantering_Uppgift\bin\Debug\net6.0\Felhantering_Uppgift.exe
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Felhantering_Uppgift\bin\Debug\net6.0\Felhantering_Uppgift.deps.json
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Felhantering_Uppgift\bin\Debug\net6.0\Felhantering_Uppgift.runtimeconfig.json
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Felhantering_Uppgift\bin\Debug\net6.0\Felhantering_Uppgift.dll
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Felhantering_Uppgift\bin\Debug\net6.0\Felhantering_Uppgift.pdb
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Felhantering_Uppgift\obj\Debug\net6.0\Felhantering_Uppgift.csproj.AssemblyReference.cache
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Felhantering_Uppgift\obj\Debug\net6.0\Felhantering_Uppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Felhantering_Uppgift\obj\Debug\net6.0\Felhantering_Uppgift.AssemblyInfoInputs.cache
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Felhantering_Uppgift\obj\Debug\net6.0\Felhantering_Uppgift.AssemblyInfo.cs
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Felhantering_Uppgift\obj\Debug\net6.0\Felhantering_Uppgift.csproj.CoreCompileInputs.cache
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Felhantering_Uppgift\obj\Debug\net6.0\Felhantering_Uppgift.dll
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Felhantering_Uppgift\obj\Debug\net6.0\refint\Felhantering_Uppgift.dll
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Felhantering_Uppgift\obj\Debug\net6.0\Felhantering_Uppgift.pdb
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Felhantering_Uppgift\obj\Debug\net6.0\Felhantering_Uppgift.genruntimeconfig.cache
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Felhantering_Uppgift\obj\Debug\net6.0\ref\Felhantering_Uppgift.dll
